@@ -8,7 +8,7 @@
 
 ## Description
 
-This PlaygroundBook is accepted as Apple's WWDC20 Student Swift Challenge award. In this PlaygroundBook, a Korean traditional game "Yut (윷)" is introduced. You can get a breif look at what Yut is, how the game works, and get to play it in a 3D environment. It can run on both macOS & iPadOS Swift Playground, but was submitted to run on iPadOS. (Because `PencilKit` does not work on macOS)
+This PlaygroundBook is accepted as Apple's WWDC20 Student Swift Challenge award. In this PlaygroundBook, a Korean traditional game "Yut (윷)" is introduced. You can get a brief look at what Yut is, how the game works, and play it in a 3D environment. It can run on both macOS & iPadOS Swift Playground, but was submitted to run on iPadOS. (Because `PencilKit` does not work on macOS)
 
 
 
