@@ -1,6 +1,10 @@
-# WWDC20 PlaygroundBook Sumission
+# Yut - a Game
 
 
+
+## WWDC 2020 Swift Student Challenge Submission
+
+__✨🧑🏻‍💻 Accepted! 🧑🏻‍💻✨__
 
 ![image](./images/image_1.png)
 
@@ -26,7 +30,7 @@ Resources are from: Wikipedia, Wikimedia, textures.com.
 
 ## Notice
 
-Just 20 minitue before submission, unknown part of the PlaygroundBook suddenly kept crashing, rendering everything unsuable. (Yes, I should have used git  ¯\_(ツ)_/¯) I had to sumit a backup version that was unpolisehd and buggy. It missed some features (especially `ARKit` version of the game and the way game work), had typos, unmatching descriptions and dummy images, with some bugs.
+Just 20 minitue before submission, unknown part of the PlaygroundBook suddenly kept crashing, rendering everything unsuable. (Yes, I should have used git  ¯\\\_(ツ)\_/¯) I had to sumit a backup version that was unpolisehd and buggy. It missed some features (especially `ARKit` version of the game and the way game work), had typos, unmatching descriptions and dummy images, with some bugs.
 
 
 
